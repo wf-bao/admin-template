@@ -1,0 +1,65 @@
+{
+  "id": "3962415",
+  "name": "wx_chat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3204911",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "27107441",
+      "name": "chat",
+      "font_class": "chat",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12548891",
+      "name": "用户角色",
+      "font_class": "yonghujiaose-",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1486839",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1418232",
+      "name": "文章",
+      "font_class": "wenzhang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "577338",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "8820128",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "1252",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
